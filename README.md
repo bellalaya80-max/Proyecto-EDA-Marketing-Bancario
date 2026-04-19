@@ -13,7 +13,7 @@ Análisis Bivariado y Multivariado: Identificación de correlaciones macroeconó
 El proyecto está organizado de la siguiente manera para facilitar la reproducibilidad:
 
 ```text
-├── notebooks/         # Notebooks de Jupyter con el análisis detallado
+├── Notebooks/         # Notebooks de Jupyter con el análisis detallado
 ├── data/              # Datos originales (en bruto) y transformados (limpios)
 ├── README.md          # Informe y descripción del proyecto
 ```
